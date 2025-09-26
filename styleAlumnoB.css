@@ -1,3 +1,22 @@
 body{
     background-color: lightblue;
 }
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.container p {
+    font-size: 14px;
+    color: gray;
+}
+
+.container footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
