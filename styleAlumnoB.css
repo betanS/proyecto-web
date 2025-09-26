@@ -1,3 +1,7 @@
-.body {
-    background-color: #a9caeb;
+.PiePag p{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(143, 23, 23);
+    margin: 0;
+    padding: 10px 0;
 }
